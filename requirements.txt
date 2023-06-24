@@ -1,0 +1,14 @@
+APScheduler==3.10.1
+beautifulsoup4==4.11.1
+bs4==0.0.1
+Flask==2.0.3
+Flask-Login==0.6.1
+Flask-Migrate==3.1.0
+Flask-SQLAlchemy==2.5.1
+Jinja2==3.0.3
+line-bot-sdk==2.4.2
+psycopg2==2.9.3
+SQLAlchemy==1.4.39
+sympy==1.12
+urllib3==1.26.12
+Werkzeug==2.0.3

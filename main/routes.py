@@ -159,6 +159,7 @@ def handle_message(event):
                 text=msg.replace("robot.send_message", "")
             )
             for i in user_list:
+                print(i)
                 line_bot_api.push_message(str(i[0]), message)
         else:
             message = TextSendMessage(text="不要再試了！")
